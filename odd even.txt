@@ -1,0 +1,5 @@
+write the algorithm to find twhether the number is even or odd
+1. start
+2. accept the number
+3. divide the number by 2, if the number is 0 its even else it is odd
+4. stop
