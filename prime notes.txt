@@ -1,0 +1,9 @@
+write aprogram to find whether a number is prime or composite
+1.start
+2.accept a positive number(greater than 2)
+3.initialize counter variable with the value 2
+4.divide the number with the counter value
+5.if the reminder is 0 display that the positive number is composite and stop
+6.else increment the counter and repeate from step four until the counter value is less than 'n'
+7.after completion of all steps display the number n is prime 
+8. stop  
